@@ -18,7 +18,6 @@ public class MainActivity extends AppCompatActivity {
         button = (Button) findViewById(R.id.button1);
         editText = (EditText) findViewById(R.id.editText);
         textview = (TextView) findViewById(R.id.textview);
-        textview = (TextView) findViewById(R.id.textview);
 
         button.setOnClickListener(new View.OnClickListener() {
             @Override
